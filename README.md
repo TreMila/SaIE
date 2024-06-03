@@ -1,4 +1,4 @@
-# SaIE
+# Unveiling the Unexpected: LLMs' Spurious Associations in Information Extraction
 This repository contains code to reproduce the experiments in the paper "Unveiling the Unexpected: LLMs' Spurious Associations in Information Extraction", published in the findings of ACL 2024.
 
 ### folders and files
